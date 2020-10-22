@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "As Ferramentas da Vida"
 date: 2019-11-21
-layout: post
 ---
 
 O epicurismo é o sistema filosófico que prega a procura dos prazeres moderados, para atingir um estado de tranquilidade, e de libertação do medo.
