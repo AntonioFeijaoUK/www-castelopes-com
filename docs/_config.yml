@@ -1,15 +1,13 @@
-title: [Castelo Lopes visões e opiniões pessoai]
-description: [CasteLopes - Partilha das minhas visões e opiniões pessoais]
+title: "Castelo Lopes visões e opiniões pessoais"
+description: "CasteLopes partilha das minhas visões e opiniões pessoais"
 
 
+theme: "jekyll-theme-minimal"
 
 
-theme: jekyll-theme-minimal
-
-
-logo: [/assets/images/Castelo-Lopes-logo.jpeg]
-show_downloads: [false]  # "true" or "false" to indicate whether to provide a download URL]
-google_analytics: []  # [Your Google Analytics tracking ID]
+logo: "/assets/images/Castelo-Lopes-logo.jpeg"
+show_downloads: "false"  # "true" or "false" to indicate whether to provide a download URL]
+google_analytics: ""  # [Your Google Analytics tracking ID]
 
 
 
