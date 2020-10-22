@@ -14,8 +14,10 @@ Pagina pessoal de partilha de visões e opiniões pessoais.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
+
+
