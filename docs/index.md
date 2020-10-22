@@ -1,4 +1,7 @@
 ---
 layout: default
-title: Castelo Lopes pagina pessoal de visoes e opinioes pessoais
 ---
+
+# Castelo Lopes
+
+Pagina pessoal, partilha de visoes e opinioes.
