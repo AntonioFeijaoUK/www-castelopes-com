@@ -1,7 +1,21 @@
 ---
+title: Castelo Lopes
 layout: default
 ---
 
-# Castelo Lopes
+Pagina pessoal de partilha de visões e opiniões pessoais.
 
-Pagina pessoal, partilha de visoes e opinioes.
+---
+
+## visões e opiniões
+
+---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
