@@ -3,9 +3,9 @@ description: "CasteLopes partilha das minhas visões e opiniões pessoais"
 
 author: "Castelo Lopes"
 
-author:
-  name: "Castelo Lopes."
-  email: contact@castelopes.com
+#author:
+#  name: "Castelo Lopes."
+#  email: contact@castelopes.com
 
 theme: "jekyll-theme-minimal"
 
@@ -18,8 +18,8 @@ show_downloads: "false"  # "true" or "false" to indicate whether to provide a do
 google_analytics: ""  # [Your Google Analytics tracking ID]
 
 
-minima:
-  date_format: "%b %-d, %Y"
+#minima:
+#  date_format: "%b %-d, %Y"
 
 
 #plugins:
@@ -30,5 +30,5 @@ plugins:
  - jekyll-seo-tag
 
 # generate social links in footer
-  social_links:
-    twitter: jekyllrb
+#  social_links:
+#    twitter: jekyllrb
