@@ -31,4 +31,7 @@ plugins:
 
 # generate social links in footer
 social_links:
- twitter: jekyllrb
+ twitter: CasteLopes
+
+
+excerpt_separator: <!--more-->
