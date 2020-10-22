@@ -1,4 +1,4 @@
 ---
-title: AntonioCloud.com
-redirect_to: https://castelopes.wordpress.com/
+layout: default
+title: Castelo Lopes pagina pessoal de visoes e opinioes pessoais
 ---
