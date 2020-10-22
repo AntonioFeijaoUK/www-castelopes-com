@@ -1,4 +1,6 @@
 ---
+title: "As Ferramentas da Vida"
+date: 2019-11-21
 layout: post
 ---
 
@@ -32,4 +34,4 @@ o garante de empreendedorismo, e criação de uma pátria nova e ordenada que eu
 
 Castello Lopes
 
-21-11-2020
+21-11-2019
