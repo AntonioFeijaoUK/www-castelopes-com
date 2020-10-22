@@ -10,8 +10,6 @@ Com ausência de sofrimento corporal pelo conhecimento do mundo e da limitação
 
 700 anos antes de Cristo a perceção do homem Epicuro.
 
-<!--more-->
-
 O homem necessita de três coisas “liberdade, amizade e tempo para filosofar”.
 
 A comunicação é o veículo que nos transporta ao espaço sideral da compreensão e evolução humana.
