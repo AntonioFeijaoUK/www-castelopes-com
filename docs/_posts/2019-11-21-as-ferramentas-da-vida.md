@@ -4,13 +4,13 @@ date: 2019-11-21
 layout: post
 ---
 
-# As Ferramentas da Vida
-
 O epicurismo é o sistema filosófico que prega a procura dos prazeres moderados, para atingir um estado de tranquilidade, e de libertação do medo.
 
 Com ausência de sofrimento corporal pelo conhecimento do mundo e da limitação dos desejos.
 
 700 anos antes de Cristo a perceção do homem Epicuro.
+
+<!--more-->
 
 O homem necessita de três coisas “liberdade, amizade e tempo para filosofar”.
 
