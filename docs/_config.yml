@@ -1,21 +1,21 @@
-title: "Castelo Lopes visões e opiniões pessoais"
-description: "CasteLopes partilha das minhas visões e opiniões pessoais"
+title: Castelo Lopes visões e opiniões pessoais
+description: CasteLopes partilha das minhas visões e opiniões pessoais
 
-author: "Castelo Lopes"
+author: Castelo Lopes
 
 #author:
 #  name: "Castelo Lopes."
 #  email: contact@castelopes.com
 
-theme: "jekyll-theme-minimal"
+theme: jekyll-theme-minimal
 
 
-logo: "/assets/images/Castelo-Lopes-logo.jpeg"
+logo: /assets/images/Castelo-Lopes-logo.jpeg
 
 
-show_downloads: "false"  # "true" or "false" to indicate whether to provide a download URL]
+show_downloads: false  # "true" or "false" to indicate whether to provide a download URL]
 
-google_analytics: ""  # [Your Google Analytics tracking ID]
+google_analytics:   # [Your Google Analytics tracking ID]
 
 
 minima:
